@@ -4,4 +4,4 @@ source('src/plotData.R')
 source('src/calcd2ship')
 source('src/runRegression.R')
 
-# going to next steps
+adding text to merge to merge conflicts
