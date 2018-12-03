@@ -1,8 +1,6 @@
 library(dplyr)
 library(readr)
 library(ggplot2)
-install.packages("fields")
-install.packages("lme4")
 library(fields)
 library(lme4)
 
